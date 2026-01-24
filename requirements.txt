@@ -6,3 +6,4 @@ scikit-learn>=1.3
 jupyter>=1.0
 joblib>=1.3
 # pinned for reproducibility (build 5)
+shap>=0.44
